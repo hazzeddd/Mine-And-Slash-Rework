@@ -1,5 +1,6 @@
 Changelog of recent updates: https://github.com/RobertSkalko/Mine-And-Slash-Rework/blob/1.20-Forge/changelogs/v.6.2.txt
 
-v.6.2.1
+v.6.2.2
 
-- fixed prophecy gui
+- tweaked summon AI, tell me if it's better or worse, specifically removed swim goal and added nearest attackable goal
+- fixed map level req tooltip being confusing
