@@ -7,6 +7,9 @@ import net.minecraft.ChatFormatting;
 import java.util.Locale;
 
 public enum Gui implements IAutoLocName {
+    TALENT_SCREEN_SEARCH_KEYWORD_GAME_CHANGER("game changer"),
+    TALENT_SCREEN_SEARCH_KEYWORD_ALL("all"),
+    TALENT_SCREEN_SEARCH_TIPS("Search Keywords: \n\n%1$s: show all allocated talents\n\n%2$s: show all game changer talents"),
     STATION_LOCK_RECIPE("Lock Recipe"),
     STATION_UNLOCK_RECIPE("Unlock Recipe"),
     STATION_START_CRAFTING("Start Crafting"),
